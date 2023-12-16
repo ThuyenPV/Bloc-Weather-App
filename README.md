@@ -1,7 +1,5 @@
 # Weather Flutter App
 
-Don't repeat your-self. In my search for coding challenges, I stumbled upon a weather app with a pretty good code base. Instead of starting from scratch, I saw an opportunity to enhance it so I decided to develop new features on-top of this challenge.
-
 ![alt text](demo/demo.gif "Screenshot")
 
 This repository contains all source code flutter for the project.
